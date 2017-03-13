@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638262479016",
+    "firebase_url": "https://diabetic-app.firebaseio.com",
+    "project_id": "diabetic-app",
+    "storage_bucket": "diabetic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638262479016:android:b88a0998a6032e6f",
+        "android_client_info": {
+          "package_name": "fintanmurphy.nci.com.diabetichealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638262479016-caud0uomb01l9l74t027o46id39ldtmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fintanmurphy.nci.com.diabetichealth",
+            "certificate_hash": "40d837a339f6fc5ebcde6656d249e3da436538c7"
+          }
+        },
+        {
+          "client_id": "638262479016-jetm87js5ainlr7728lmhrkag6elqqur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGcfO8H3_B7pwkvk08jgJ_NGBQUgd1uQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638262479016-jetm87js5ainlr7728lmhrkag6elqqur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
